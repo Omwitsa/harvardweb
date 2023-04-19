@@ -1,0 +1,189 @@
+::selection {
+    background: #546689; /* Safari */
+}
+::-moz-selection {
+    background: #546689; /* Firefox */
+}
+.animsition-loading,
+.lg-outer .lg-item:after,
+.tp-loader.spinner {
+    border-left: 6px solid #546689;
+}
+a,
+.isotope-filter ul li a:hover,
+.isotope-filter ul li a.is-checked {
+    color: #546689;
+}
+.instagram-wrapper .btn-full:hover,
+.instagram-wrapper .btn-full:focus,
+.instagram-wrapper .btn-full:active,
+.instagram-wrapper .btn-full.active {
+    color:  #546689 !important;
+}
+a.line:hover {
+    border-bottom: 1px solid #546689;
+}
+a:hover,
+a:focus {
+    color: #546689;
+}
+.text-light {
+    color:#ffffff;
+}
+.post-title a:hover {
+    color: #546689
+}
+.more {
+    color: #546689;
+}
+.meta a:hover,
+.more:hover {
+    color: #546689
+}
+ul.circled li:before {
+    color: #546689;
+}
+.btn {
+    background: #546689;
+}
+.btn:hover,
+.btn:focus,
+.btn:active,
+.btn.active,
+.pagination ul > li > a:hover,
+.pagination ul > li > a:focus,
+.pagination ul > .active > a,
+.pagination ul > .active > span {
+    background: #37435A;
+}
+.btn-light:hover,
+.btn-light:focus,
+.btn-light:active,
+.btn-light.active {
+    color: #546689 !important;
+}
+.btn-border:hover,
+.btn-border:focus,
+.btn-border:active,
+.btn-border.active {
+    background: none;
+    color: #546689 !important;
+    border-color: #546689 !important;
+}
+.btn-white:hover,
+.btn-white:focus,
+.btn-white:active,
+.btn-white.active {
+    color: #546689 !important;
+}
+.btn-black{
+    background: #000000;
+}
+.btn-black:hover,
+.btn-black:focus,
+.btn-black:active,
+.btn-black.active {
+    background: #546689 !important;
+    color: #fff !important;
+}
+
+.navbar .nav > li.current > a,
+.navbar .nav > li.btn-black > a:hover {
+    color: #ffffff !important
+}
+.navbar .nav > li.current > a,
+.navbar .nav > li > a:hover {
+    color: #546689 !important
+}
+.navbar .dropdown-menu li a:hover,
+.navbar .dropdown-menu li a.active {
+    color: #546689 !important
+}
+.lg-outer .lg-thumb-item.active,
+.lg-outer .lg-thumb-item.active:hover,
+.fotorama__thumb-border {
+    border-color: #546689
+}
+.sidebar .meta a:hover,
+footer .meta a:hover {
+    color: #546689 !important
+}
+.sidebox a:hover {
+    color: #546689
+}
+.widget .post-list li a:hover {
+    color: #546689
+}
+.feature .icon {
+    color: #546689;
+}
+.icon-large {
+    color: #546689;
+}
+.tabs-top .tab a:hover,
+.tabs-top .tab.active a {
+    border: 2px solid #546689;
+    color: #ffffff;
+    background: #546689;
+}
+.panel-group .panel-heading .panel-title:hover,
+.panel-group .panel-active .panel-heading .panel-title {
+    border: 2px solid #546689;
+    color: #546689;
+}
+.price {
+    color: #546689;
+}
+.tooltip-inner {
+    background-color: #546689;
+}
+.tooltip.top .tooltip-arrow,
+.tooltip.top-left .tooltip-arrow,
+.tooltip.top-right .tooltip-arrow {
+    border-top-color: #546689
+}
+.tooltip.right .tooltip-arrow {
+    border-right-color: #546689
+}
+.tooltip.left .tooltip-arrow {
+    border-left-color: #546689
+}
+.tooltip.bottom .tooltip-arrow,
+.tooltip.bottom-left .tooltip-arrow,
+.tooltip.bottom-right .tooltip-arrow {
+    border-bottom-color: #546689
+}
+.progress-list li em {
+    color: #546689;
+}
+.progress.plain .bar {
+    background: #546689 !important;
+}
+#comments .info h2 a:hover {
+    color: #546689
+}
+blockquote,
+.vanilla-form input[type="radio"]:focus + span,
+.vanilla-form input[type="checkbox"]:focus + span,
+.vanilla-form input[type="radio"]:active + span,
+.vanilla-form input[type="checkbox"]:active + span {
+    border-color: #546689
+}
+.vanilla-form input[type="radio"] + span::after {
+    background-color: #546689;
+    border-color: #546689;
+}
+.vanilla-form input[type="radio"]:checked + span,
+.vanilla-form input[type="checkbox"]:checked + span {
+    border: 2px solid #546689
+}
+.vanilla-form input[type="checkbox"] + span::after {
+    border: 0 solid #546689;
+}
+.social.bordered a:hover .icon-s-email:hover {
+    color: #546689;
+    border-color: #546689;
+}
+.blue {
+    color: #546689 !important;
+}
